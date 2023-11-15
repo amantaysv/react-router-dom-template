@@ -6,7 +6,7 @@ export const RootLayout = () => {
     <div>
       <header>
         <CustomLink to='/'>Home</CustomLink>
-        <CustomLink to='/posts'>Blog</CustomLink>
+        <CustomLink to='/posts'>Posts</CustomLink>
         <CustomLink to='/about'>About</CustomLink>
       </header>
       <main className='container'>
